@@ -1,2 +1,2 @@
 # microservicecloud-config
-SpringCloud分布式配置中
+SpringCloud分布式配置中心
